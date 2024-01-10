@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"gorm.io/datatypes"
+	datatypes "github.com/golimix/gorm-datatypes"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	. "gorm.io/gorm/utils/tests"

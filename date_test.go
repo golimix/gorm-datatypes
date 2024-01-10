@@ -7,8 +7,9 @@ import (
 	"testing"
 	"time"
 
+	datatypes "github.com/golimix/gorm-datatypes"
 	"github.com/jinzhu/now"
-	"gorm.io/datatypes"
+
 	. "gorm.io/gorm/utils/tests"
 )
 

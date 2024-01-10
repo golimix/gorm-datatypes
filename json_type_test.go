@@ -4,7 +4,8 @@ import (
 	"database/sql/driver"
 	"testing"
 
-	"gorm.io/datatypes"
+	datatypes "github.com/golimix/gorm-datatypes"
+
 	"gorm.io/gorm"
 	. "gorm.io/gorm/utils/tests"
 )
